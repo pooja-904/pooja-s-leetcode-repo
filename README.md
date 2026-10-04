@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2942-find-words-containing-character](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
