@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1572-matrix-diagonal-sum) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
