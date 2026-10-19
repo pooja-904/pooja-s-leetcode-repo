@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1572-matrix-diagonal-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
