@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1572-matrix-diagonal-sum) |
+| [1920-build-array-from-permutation](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2942-find-words-containing-character) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
