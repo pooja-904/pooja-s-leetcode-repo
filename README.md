@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/pooja-904/pooja-s-leetcode-repo/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
